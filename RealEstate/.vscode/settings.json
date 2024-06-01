@@ -1,0 +1,4 @@
+{
+    "js/ts.implicitProjectConfig.target": "ES5",
+    "js/ts.implicitProjectConfig.module": "ES2015"
+}
